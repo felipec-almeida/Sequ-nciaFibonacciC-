@@ -12,7 +12,7 @@ while(valor2 <= entrada)
 
     if(valor2 == entrada)
     {
-
+        Console.WriteLine($"Atual número da sequência: {valor2}");
         Console.WriteLine($"O número {entrada} pertence à sequência.");
         break;
 
